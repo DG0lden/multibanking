@@ -43,6 +43,10 @@
 		<maven.build-timestamp>${maven.build.timestamp}</maven.build-timestamp>
 		<scmBranch />
 		<start-class />
+		<sonar.projectKey>DG0lden_multibanking</sonar.projectKey>
+                <sonar.organization>dg0lden</sonar.organization>       
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                <sonar.login>8c705cafab79d771428cc7446177a1040f2fc59e</sonar.login>
 	</properties>
 
 	<modules>
